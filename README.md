@@ -1,12 +1,20 @@
 # README
 
-This repository contains official code for our research paper "Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling" (https://dl.acm.org/doi/10.1145/3581783.3611887).
+## Done:
 
-## Environment setup
-To set up the environment, we provide an `requirements.txt` file that you can use with pip:
-```
-pip install -r requirements.txt
-```
+- Got AWS running and ran all the requirements
+- 
+- 
+
+
+## Current:
+
+- Doing data prep
+- Making sure the code runs
+- Emailing the authors of the paper
+- 
+
+
 ## Data preparation
 Due to licensing restrictions, we are unable to provide pre-processed data directly. However, you can refer to [TEACH](https://github.com/athn-nik/teach#data) for specific data processing methods.
 
