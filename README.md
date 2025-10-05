@@ -3,12 +3,14 @@
 ## Done:
 
 - Got AWS running and ran all the requirements
+- The SMPLH_MALE.pkl, the processed AMASS data used in the TECH repo, and official BABEL annotation dataset
+- Don't know if "babel_v1-0_release.zip" from BABEL paper is the babel_v2.1?
 
 
 ## Current:
 
 - Doing data prep
-- Making sure the code runs
+- need to train a model on the data 
 - Emailing the authors of the paper
 
 
