@@ -3,8 +3,6 @@
 ## Done:
 
 - Got AWS running and ran all the requirements
-- 
-- 
 
 
 ## Current:
@@ -12,7 +10,6 @@
 - Doing data prep
 - Making sure the code runs
 - Emailing the authors of the paper
-- 
 
 
 ## Data preparation
